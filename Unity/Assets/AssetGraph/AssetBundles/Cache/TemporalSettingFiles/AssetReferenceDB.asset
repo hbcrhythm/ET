@@ -13,104 +13,20 @@ MonoBehaviour:
   m_Name: AssetReferenceDB
   m_EditorClassIdentifier: 
   m_assets:
-  - m_assetDatabaseId: 55d97ed9dfbba44439498c7069873723
-    m_importFrom: Assets/AssetGraph
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: b495c7f72b8bbbd4284a2d45705ae22c
-    m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 848b315e66d15674185b2b3a67e2c60e
-    m_importFrom: Assets/AssetGraph/AssetBundles/Cache
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: ab3907491bac48f46b03433b32e5c23f
-    m_importFrom: Assets/AssetGraph/AssetBundles
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: e3cc4c61333704573a82d3ab31a21ba9
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__GroupByFilePathTest_TestSubgrouping.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: f79f3200638d94ef7887adb6e8516401
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__LoadBySearchFilterTest_TestEmptySearchCondition.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: e68d922aabe4948a2af68d46db95d4a9
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node2@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 57e5b4f272c13400db25084f10fea6a1
-    m_importFrom: Packages/com.unity.assetgraph/Editor/SettingTemplate/readme.txt
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: fc7088bd5a5634d5eb4b6c84bc95bcbf
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__LoadFromDirectoryTest_TestIgnoreSettings.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 8836c99e56667417bb066cd94bd2a9cb
-    m_importFrom: Packages/com.unity.assetgraph/README.md
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 928b290746aa740428fdb3021b136b4c
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node6@2x.png
+  - m_assetDatabaseId: 5a35c5f0a89b9654d897ccd7c8f81bd0
+    m_importFrom: Assets/Res/Unit/Skeleton/Character/Skeleton@Skin.FBX
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: dfc15c633f0d98141920018f79a042a6
     m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Attack.FBX
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 9464586463c434f4a9ca322dc0df1350
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node2@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 20dd03585482b4892a07d6dd5adb3ecc
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/d_AssetGraphWindow.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 2532f117fdca14c628be19d001f7487b
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__GroupBySizeTest_TestGroupByRuntimeMemorySize.asset
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: a5ea117a2b123564a83a2dbd1c9ea4cf
     m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Idle.FBX
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 9291133251fa94285b90b7ea1ab5ae4f
-    m_importFrom: Packages/com.unity.assetgraph/Editor/ScriptTemplate/MyPostprocess.cs.template
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 7136d73e8820d4135bcd6720bf5f3721
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node2.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 0bf674c3f0a4e42228c87053bedac19e
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/ConnectionPoint.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 75ce4a2b9ce8e45f9bcb12d38ed95952
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeStyle.guiskin
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 5fa5a4d85cee44cc3a050e131b9b6098
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node3@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 403f9a7a077a74263bab6b89198eaf4c
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node0@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 2f2c4a782f59347fabf45af3206d679d
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__LastImportedItemsTest_TestLastImportedItems.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: fea4e72e0941e42bdb611e8fa916dd2c
-    m_importFrom: Packages/com.unity.assetgraph/Editor/SettingTemplate/setting.shader
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 18678a28cef624aeb89c5717c46be35b
-    m_importFrom: Packages/com.unity.assetgraph/Editor/SettingTemplate/setting.fbx
+  - m_assetDatabaseId: 188f1042b5ff4644389fad5df1f98d7c
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Walk.FBX
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 1e768688017709245aed3bb86453c364
@@ -121,336 +37,72 @@ MonoBehaviour:
     m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Death.FBX
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 2bc0d9d4d7b8e478c831da74cdf06151
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/LineDraw.shader
+  - m_assetDatabaseId: f57ee821486cd7b488adf1063a8dd207
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Run.FBX
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 81d4af5a5190e3d4d88c97161d881bf3
     m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Damage.FBX
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 2134a1fa3afdb4b909185365e52219d1
-    m_importFrom: Packages/com.unity.assetgraph/Editor/ScriptTemplate/MyGenerator.cs.template
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 9276505b1c89f4fd7ba7e77f9b12c6ad
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__LoadFromDirectoryTest_TestLoadAsset.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: d08b6432a8ecc45e9919f60b13177955
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__LoadBySearchFilterTest_TestSearchFilterWithTypeAndName.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: afc3569f912a446bc839b0acf18ac47c
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node7@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 2a89a69dd38ea4743bd061070386b3cd
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__GroupByFilePathTest_TestGroupByRegex.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: ed27888e1684140fe8f6cb05957e5b6b
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node3.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: c257eab87736446e9a206d1a2040912f
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__ErrorTest_TestError.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 8adf019998f124b7d8692b8083b72505
-    m_importFrom: Packages/com.unity.assetgraph/Editor/SettingTemplate/setting.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: be94deed5ffe14cf18fd7d8fdd00a3d7
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__CreatePrefabFromGroupTest_TestReplaceWithIncomingGameObject.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: e72f91eb00673438dbda9a3af311292a
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__SplitByFilterTest_TestFilterByName.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 65ec3f597ff024afa8b9a0ce8c69f9d5
-    m_importFrom: Packages/com.unity.assetgraph/Editor/ScriptTemplate/MyImportSettingsConfigurator.cs.template
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 8f7ecdf2556ad4d3a820aba90522fab4
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node7@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 4a0b85fd49f18421dbe7ab1207ce08d6
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__AssertUnwantedAssetsInBundleTest_TestAssetUnwantedAllowShouldSuccess.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 9d6beecfb0c514c9782641af7bdbe9ba
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/AssetGraphWindow.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: eb428e679ba4945b382b08d1e15bdbd9
-    m_importFrom: Packages/com.unity.assetgraph/Editor/ScriptTemplate/MyPrefabBuilder.cs.template
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: b48a2f13c40b045f9b2205828dbd7fc4
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/ConfigGraphIcon.psd
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 48a13c66388e34e1fa54cce85530c3b4
-    m_importFrom: Packages/com.unity.assetgraph/Third Party Notices.md
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 03eaacf3cb3e642a3a137ead7d9debba
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node3@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: f57ee821486cd7b488adf1063a8dd207
-    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Run.FBX
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: bfe3797fca69b44589c23dbbdb59ee52
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node7.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 68513e64baa064f4fa5fd516c205e836
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__SplitByFilterTest_TestFilterByType.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 58f7bc10c14254efa942520342cd8eba
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__SplitByFilterTest_TestRegexFilter.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 4eb34d40a86f34e39b58f21bfa24fa14
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node_images_source.psd
+  - m_assetDatabaseId: 6f61bc53c41ba664fa527d3386ecfd1e
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Stand.FBX
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 6e0b4a05932877a4b89fb3fb32c3e72b
     m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Knockback.FBX
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: a5b60c4c9c31a48de997f40e86fce8dd
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node0@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 89baa4f52fa38496e8d0d6808762034f
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node5.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 5a35c5f0a89b9654d897ccd7c8f81bd0
-    m_importFrom: Assets/Res/Unit/Skeleton/Character/Skeleton@Skin.FBX
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 1cc4426cea05e4d9a92364da039f01b7
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node4@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: ed3855e42a19348ebb7d746a9074749f
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__GroupBySizeTest_TestFreezeGroupOnBuild.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 4edd7b9c0708c41c394a7eccef5710f3
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node1@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: eaa35269cca754e59b04f1d5b04e5c61
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__AssertUnwantedAssetsInBundleTest_TestAssetUnwantedAllowShouldFail.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: cb8c96287a087455ab5f02f76f764c10
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node8@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: ae3ba93a359be43028ab177bfbf6af50
-    m_importFrom: Packages/com.unity.assetgraph/Editor/SettingTemplate/setting.wav
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: c63d12b8197e0466bb01427f0f4d999b
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node_images_source@2x.psd
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 5eba26bbba87e4b7fa2770f653d5ce25
-    m_importFrom: Packages/com.unity.assetgraph/CHANGELOG.md
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 67b4de080f56845a09dfdbf9742a16e5
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node3.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 406e7a664cf5b47b8bea6929347c3122
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node6.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 4b51c3dc205df425bb581cfc489b2380
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node1@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: d00d589513e244e05b12dce92ddf25e4
-    m_importFrom: Packages/com.unity.assetgraph/Editor/ScriptTemplate/MyFilter.cs.template
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: fa2529bf9209243c48e658c607b0c8f2
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node5@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: a32399ce774d347618afa06d4340816d
-    m_importFrom: Packages/com.unity.assetgraph/Tests/rep.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 207f0a157f97848d7ac7a9009b66e802
-    m_importFrom: Packages/com.unity.assetgraph/Editor/ScriptTemplate/MyModifier.cs.template
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 5f2454976b5ed4e628d9e910951d08d7
-    m_importFrom: Packages/com.unity.assetgraph/Editor/ScriptTemplate/MyNode.cs.template
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: b8034c807692d4dc8975b8b0df202123
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node5@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 1c5196e122b8e46d3aef4164c81252e8
-    m_importFrom: Packages/com.unity.assetgraph/Editor/SettingTemplate/setting.ttf
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 3ab1bcbb000bd41018384e565c288604
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node5.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 17f5e465a53ec43a6b8177a48631da66
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__GroupByFilePathTest_TestGroupByWildcard.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 7e74ddcb4e22c4cfc94b454f0aeb1573
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node0.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: d5367ed2f72994b55af0964b29a5134a
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node7.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 63ad34409be54418f9ef3d9a98023f6b
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__GroupBySizeTest_TestGroupNameFormat.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: ce5936f270f2246a48389efc0de19c01
-    m_importFrom: Packages/com.unity.assetgraph/package.json
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 009ae346a3f1b42eb864a151c39805d3
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node6@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: d0852653cb1494d2babfabf7af41c7c7
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__GroupByFileTest_TestGroupByFile.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 4dff96b374bd7441c8ad7f91fc6a3591
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node1.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 76f42306b205543bf8fd126dd531dd99
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node8.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: cb7760b9e5ac34accb86727dca327299
-    m_importFrom: Packages/com.unity.assetgraph/LICENSE.md
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 2abf0057439a542baaf1fcfe5c889ace
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__LoadBySearchFilterTest_TestSearchFilterWithName.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 78ce924c1536e4fb88d91fff535a384b
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node8@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: dc450d61563c64aff935a96eb810c6bd
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__AssertUnwantedAssetsInBundleTest_TestAssetUnwantedDisallowShouldSuccess.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 995c7b348de57438c891b65236c1d7b2
-    m_importFrom: Packages/com.unity.assetgraph/Editor/SettingTemplate/setting.m4v
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 4e32e6a16360e4be9ad309cb2d977563
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__LoadFromDirectoryTest_TestDirectoryNotExist.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 9c6f4787a44c0462782ee7bfe082d1f8
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__GroupBySizeTest_TestGroupByFileSize.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 0df1a0e68a43f4f10b41dcc7f59966ab
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__GroupByFileTest_TestGroupNameFormat.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: cb41ee89232544c41aee0734aaf8e9fc
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__CreatePrefabFromGroupTest_TestReplaceGameObjectByName.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 188f1042b5ff4644389fad5df1f98d7c
-    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Walk.FBX
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: c99f06ff0dde241d1a363bbd8ef932a2
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node4.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 519a7d8c957b74d4796e109c00242ce0
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node8.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 9bc9e735871e9496e9ff53c223919bb1
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__AssertUnwantedAssetsInBundleTest_TestAssetUnwantedDisallowShouldFail.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 907baae0102874dd49e7f5b2c9dbd168
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node0.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 7576b8f317a11494eae65b2335689272
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/OutputBG.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: ff364f45836f84793bb74231db2d1dee
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__SplitByFilterTest_TestCombinedFilter.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 026474f5e29544af185a526bd1aebdf6
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node4@2x.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 6f61bc53c41ba664fa527d3386ecfd1e
-    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Skeleton@Stand.FBX
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: f8dd2517b608b4a7ea9098574b4e6969
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node1.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: b941be2c696694ebc89e1f4a0fedc4f8
-    m_importFrom: Packages/com.unity.assetgraph/Tests/Editor/Graphs/__hidden__ErrorTest_TestNoError.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 8e6f1bb79354d4d14a965de286d966d5
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node6.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: a1db7ee549d5147d4b42adf1b7396354
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/InputBG.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 5b4de33f65ec448ec9085f9c0bf149db
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node2.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: e85ee2947fe44422d90dab56e1efdd91
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node4.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 8a464fff3e6f5a546bb453ecf8cad8ec
-    m_importFrom: Assets/Editor/BuildEditor/ETBuildSettings.asset
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: 1e94dce6c8225744e802d3e77865c722
     m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetReferenceDB.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f610c264e5890794699e59e8a250193c
+    m_importFrom: Assets/Setting/URPAsset.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000006100000000000000
+    m_importFrom: ProjectSettings/GraphicsSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5cfe3515f0bbd544b8d744041fc5ed70
+    m_importFrom: Assets/Setting/URPAsset_Renderer.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 632c228e7b359fe449fe6e200b53b32e
+    m_importFrom: Assets/Setting/PostFX Profile.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000003000000000000000
+    m_importFrom: ProjectSettings/TagManager.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e0d691ac8c1d0454ba07089ea820e18a
+    m_importFrom: Assets/Scenes/Init.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f40229054a993f149aea8b2f9012f687
+    m_importFrom: Packages/com.unity.entities/Unity.Scenes.Editor.Tests/Assets/TestMaterial.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b1494958bf9856a479bec1767c02878e
+    m_importFrom: Assets/Res/Unit/Skeleton/Ani/Materials/skeleton_D.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: edb5bfe54738c4e58941b910ae835274
+    m_importFrom: Packages/com.unity.entities/Unity.Scenes.Hybrid.Tests/Test.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed14df0368fe53543907335c0e3902c6
+    m_importFrom: Assets/Res/Unit/Skeleton/Character/Materials/skeleton_D.mat
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b1007c1e014c964c9c3036a98f15f4a
+    m_importFrom: Assets/Scenes/MapSettings.lighting
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5294483f20f40d449699101bb428cda
+    m_importFrom: Assets/Scenes/Map.unity
     m_exportTo: 
     m_variantName: 
   m_version: 2
