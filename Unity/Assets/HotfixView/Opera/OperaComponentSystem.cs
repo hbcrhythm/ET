@@ -25,6 +25,8 @@ namespace ET
         {
             if (Input.GetMouseButtonDown(1))
             {
+                //self.GetComponent<InputComponent>().inputEvents |= Define.InputEvents.Moving;
+
                 Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
                 RaycastHit hit;
                 if (Physics.Raycast(ray, out hit, 1000, self.mapMask))

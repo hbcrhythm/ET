@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "com.peterxiang.xmlib.thirdparty": "https://github.com/hbcrhythm/XMLib.ThirdParty.git",
+    "com.peterxiang.xmlib.common": "https://github.com/PxGame/XMLib.Common.git",
+    "com.peterxiang.xmlib.am": "https://github.com/hbcrhythm/XMLib.AM.git",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.assetbundlebrowser": "1.7.0",

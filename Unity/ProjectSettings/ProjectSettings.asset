@@ -719,7 +719,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    1: NET452;UNITY_POST_PROCESSING_STACK_V2
+    1: NET452;UNITY_POST_PROCESSING_STACK_V2;ODIN_INSPECTOR
     4: NET452;ILRuntime
     7: NET452;ILRuntime
     13: NET452;ILRuntime
